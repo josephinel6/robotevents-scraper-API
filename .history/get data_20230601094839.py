@@ -1,6 +1,5 @@
 import bs4 as bs
 from bs4 import BeautifulSoup, CData
-import urllib.request
 import csv
 import lxml
 from lxml import *
